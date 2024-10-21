@@ -1,0 +1,37 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-error.log
+
+# Environment files
+.env
+
+# Coverage reports
+coverage/
+
+# Build directories
+dist/
+build/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+
+# Bower components
+bower_components/
+
+# Framework-specific files
+.next/
+.nuxt/
+public/
+
+# Other
+*.tgz
+.eslintcache
